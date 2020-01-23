@@ -1,0 +1,1 @@
+SELECT table_name,table_schema FROM INFORMATION_SCHEMA.COLUMNS WHERE column_name='column';
